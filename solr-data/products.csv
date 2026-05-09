@@ -1,0 +1,101 @@
+id,name,description,category,brand,price,rating,in_stock,tags,date_added
+P001,Wireless Bluetooth Headphones,Premium over-ear wireless headphones with active noise cancellation and 30-hour battery life,Electronics,SoundMax,79.99,4.5,true,"bluetooth,headphones,wireless,audio,noise-cancelling",2025-01-15T00:00:00Z
+P002,Mechanical Gaming Keyboard,RGB backlit mechanical keyboard with Cherry MX Blue switches and programmable macros,Electronics,KeyMaster,129.99,4.7,true,"keyboard,gaming,mechanical,rgb,cherry-mx",2025-02-10T00:00:00Z
+P003,Ultra Slim Laptop Stand,Ergonomic aluminum laptop stand with adjustable height and ventilation design,Electronics,ErgoTech,39.99,4.3,true,"laptop,stand,ergonomic,aluminum",2025-01-20T00:00:00Z
+P004,4K Ultra HD Webcam,Professional 4K webcam with auto-focus and built-in ring light for streaming,Electronics,VisionPro,89.99,4.6,true,"webcam,4k,streaming,video,camera",2025-03-05T00:00:00Z
+P005,Portable Bluetooth Speaker,Waterproof portable speaker with 360-degree sound and 20-hour playtime,Electronics,SoundMax,49.99,4.4,true,"speaker,bluetooth,portable,waterproof,audio",2025-02-28T00:00:00Z
+P006,USB-C Docking Station,12-in-1 USB-C hub with dual HDMI triple display and 100W power delivery,Electronics,TechConnect,69.99,4.2,true,"usb-c,hub,docking,hdmi,laptop",2025-04-12T00:00:00Z
+P007,Wireless Gaming Mouse,High-precision wireless gaming mouse with 25600 DPI sensor and RGB lighting,Electronics,KeyMaster,59.99,4.8,true,"mouse,gaming,wireless,rgb,precision",2025-01-08T00:00:00Z
+P008,Noise Cancelling Earbuds,True wireless earbuds with hybrid ANC transparency mode and wireless charging case,Electronics,SoundMax,119.99,4.5,false,"earbuds,wireless,anc,bluetooth,audio",2025-03-20T00:00:00Z
+P009,Smart Home Hub,Voice-controlled smart home hub with built-in display and Zigbee connectivity,Electronics,SmartLife,129.99,4.1,true,"smart-home,hub,voice,zigbee,display",2025-05-01T00:00:00Z
+P010,Curved Gaming Monitor 27 inch,27-inch curved QHD gaming monitor with 165Hz refresh rate and 1ms response time,Electronics,VisionPro,349.99,4.7,true,"monitor,gaming,curved,qhd,165hz",2025-02-14T00:00:00Z
+P011,Portable Power Bank 20000mAh,High-capacity portable charger with fast charging and dual USB-C ports,Electronics,TechConnect,34.99,4.3,true,"power-bank,portable,charger,usb-c,fast-charging",2025-04-20T00:00:00Z
+P012,Smart Fitness Tracker,Advanced fitness band with heart rate SpO2 monitoring and GPS tracking,Electronics,FitGear,79.99,4.4,true,"fitness,tracker,heart-rate,gps,health",2025-01-25T00:00:00Z
+P013,Electric Standing Desk Mat,Anti-fatigue comfort mat for standing desks with massage points,Electronics,ErgoTech,44.99,4.0,true,"desk,mat,standing,ergonomic,comfort",2025-06-10T00:00:00Z
+P014,Wireless Charging Pad,Fast wireless charging pad compatible with Qi devices and LED indicator,Electronics,TechConnect,19.99,4.2,true,"charger,wireless,qi,fast-charging",2025-03-15T00:00:00Z
+P015,Smart LED Light Strip,WiFi-enabled RGB LED strip with music sync and voice control 5 meters,Electronics,SmartLife,24.99,4.3,true,"led,light,strip,rgb,smart-home,wifi",2025-07-01T00:00:00Z
+P016,Digital Drawing Tablet,Professional drawing tablet with 8192 pressure levels and tilt support,Electronics,CreativePro,199.99,4.6,true,"tablet,drawing,digital,art,pressure",2025-02-05T00:00:00Z
+P017,USB Microphone Kit,Professional condenser USB microphone with boom arm pop filter and shock mount,Electronics,SoundMax,69.99,4.5,true,"microphone,usb,condenser,streaming,podcast",2025-08-12T00:00:00Z
+P018,Slim Fit Cotton T-Shirt,Classic slim fit crew neck t-shirt made from 100 percent organic cotton,Clothing,UrbanWear,24.99,4.2,true,"tshirt,cotton,slim-fit,organic,casual",2025-01-10T00:00:00Z
+P019,Denim Jacket Classic Blue,Vintage-style classic blue denim jacket with brass button closure,Clothing,DenimCo,69.99,4.5,true,"jacket,denim,blue,vintage,casual",2025-03-18T00:00:00Z
+P020,Performance Running Shoes,Lightweight mesh running shoes with responsive cushioning and breathable design,Clothing,SportStep,99.99,4.6,true,"shoes,running,lightweight,mesh,sport",2025-02-22T00:00:00Z
+P021,Stretch Chino Pants,Modern slim-fit chino pants with stretch comfort fabric and wrinkle resistance,Clothing,UrbanWear,49.99,4.3,true,"pants,chino,slim-fit,stretch,casual",2025-04-05T00:00:00Z
+P022,Merino Wool Sweater,Premium merino wool crew neck sweater soft and temperature regulating,Clothing,NordicKnit,89.99,4.7,true,"sweater,merino,wool,crew-neck,premium",2025-01-30T00:00:00Z
+P023,Waterproof Hiking Boots,Durable waterproof hiking boots with ankle support and Vibram outsole,Clothing,TrailBlaze,139.99,4.8,true,"boots,hiking,waterproof,outdoor,vibram",2025-05-15T00:00:00Z
+P024,UV Protection Sunglasses,Polarized sunglasses with UV400 protection and titanium frame,Clothing,SunShield,59.99,4.4,true,"sunglasses,polarized,uv,titanium",2025-06-20T00:00:00Z
+P025,Hooded Windbreaker Jacket,Lightweight packable windbreaker with hood and water-resistant finish,Clothing,SportStep,54.99,4.2,true,"jacket,windbreaker,hooded,lightweight,water-resistant",2025-07-10T00:00:00Z
+P026,Athletic Compression Socks,High-performance compression socks for running and recovery 3 pack,Clothing,FitGear,19.99,4.1,true,"socks,compression,athletic,running,recovery",2025-03-25T00:00:00Z
+P027,Leather Belt Classic Brown,Genuine leather belt with brushed nickel buckle and stitched edges,Clothing,UrbanWear,34.99,4.3,true,"belt,leather,brown,classic,accessory",2025-08-01T00:00:00Z
+P028,Thermal Base Layer Top,Moisture-wicking thermal base layer for cold weather activities,Clothing,TrailBlaze,44.99,4.5,true,"base-layer,thermal,moisture-wicking,cold-weather",2025-09-05T00:00:00Z
+P029,Linen Summer Shirt,Relaxed fit pure linen shirt perfect for summer with breathable fabric,Clothing,UrbanWear,39.99,4.2,true,"shirt,linen,summer,breathable,relaxed",2025-06-15T00:00:00Z
+P030,Sport Jogger Pants,Tapered jogger pants with zippered pockets and moisture management fabric,Clothing,SportStep,44.99,4.4,true,"jogger,pants,sport,tapered,zippered",2025-04-18T00:00:00Z
+P031,Canvas Backpack 25L,Durable canvas backpack with padded laptop compartment and multiple pockets,Clothing,TrailBlaze,64.99,4.3,true,"backpack,canvas,laptop,durable,travel",2025-02-12T00:00:00Z
+P032,Stainless Steel Water Bottle,Double-wall vacuum insulated water bottle keeps drinks cold 24 hours,Home & Kitchen,HomeEssentials,29.99,4.6,true,"water-bottle,insulated,stainless-steel,vacuum",2025-01-05T00:00:00Z
+P033,Non-Stick Cookware Set 10 Piece,Professional non-stick cookware set with tempered glass lids and stay-cool handles,Home & Kitchen,ChefPro,149.99,4.5,true,"cookware,non-stick,kitchen,pots,pans",2025-03-10T00:00:00Z
+P034,Automatic Coffee Maker,Programmable 12-cup coffee maker with built-in grinder and thermal carafe,Home & Kitchen,BrewMaster,89.99,4.4,true,"coffee,maker,programmable,grinder,automatic",2025-02-18T00:00:00Z
+P035,Memory Foam Pillow Set,Contour memory foam pillows with cooling gel layer and bamboo cover 2 pack,Home & Kitchen,DreamComfort,49.99,4.3,true,"pillow,memory-foam,cooling,bamboo,sleep",2025-04-22T00:00:00Z
+P036,Cast Iron Skillet 12 inch,Pre-seasoned 12-inch cast iron skillet for searing grilling and baking,Home & Kitchen,ChefPro,39.99,4.8,true,"skillet,cast-iron,seasoned,cooking,versatile",2025-01-28T00:00:00Z
+P037,Electric Kettle Variable Temperature,Variable temperature electric kettle with gooseneck spout for pour-over coffee,Home & Kitchen,BrewMaster,54.99,4.5,true,"kettle,electric,variable-temperature,gooseneck,pour-over",2025-05-08T00:00:00Z
+P038,Bamboo Cutting Board Set,Organic bamboo cutting board set with juice grooves 3 sizes,Home & Kitchen,HomeEssentials,24.99,4.2,true,"cutting-board,bamboo,organic,kitchen",2025-06-30T00:00:00Z
+P039,Robot Vacuum Cleaner,Smart robot vacuum with LiDAR navigation and self-emptying dustbin,Home & Kitchen,SmartLife,299.99,4.6,true,"vacuum,robot,smart,lidar,self-emptying",2025-07-15T00:00:00Z
+P040,Ceramic Dinner Set 16 Piece,Modern ceramic dinner set with plates bowls and mugs in matte finish,Home & Kitchen,HomeEssentials,79.99,4.4,true,"dinner-set,ceramic,plates,bowls,matte",2025-03-28T00:00:00Z
+P041,Air Purifier HEPA Filter,True HEPA air purifier for large rooms with air quality sensor,Home & Kitchen,SmartLife,179.99,4.5,true,"air-purifier,hepa,filter,smart,clean-air",2025-08-20T00:00:00Z
+P042,Silicone Baking Mat Set,Non-stick silicone baking mats for cookies and pastries reusable 3 pack,Home & Kitchen,ChefPro,14.99,4.3,true,"baking,mat,silicone,non-stick,reusable",2025-09-10T00:00:00Z
+P043,French Press Coffee Maker,Double-wall stainless steel French press with 4-level filtration,Home & Kitchen,BrewMaster,34.99,4.4,true,"french-press,coffee,stainless-steel,filtration",2025-02-08T00:00:00Z
+P044,Weighted Blanket 15 lbs,Premium weighted blanket with glass beads and breathable cotton cover,Home & Kitchen,DreamComfort,69.99,4.6,true,"blanket,weighted,glass-beads,cotton,sleep",2025-04-15T00:00:00Z
+P045,Electric Hand Mixer,Lightweight electric hand mixer with 5 speeds and stainless steel beaters,Home & Kitchen,ChefPro,29.99,4.2,true,"mixer,electric,hand,kitchen,baking",2025-05-22T00:00:00Z
+P046,Scented Candle Gift Set,Luxury soy wax scented candles with natural essential oils 6 pack,Home & Kitchen,HomeEssentials,39.99,4.5,true,"candle,scented,soy-wax,essential-oils,gift",2025-06-05T00:00:00Z
+P047,Adjustable Dumbbell Set,Space-saving adjustable dumbbells with quick-change weight system 5-52.5 lbs,Sports,IronForce,249.99,4.7,true,"dumbbell,adjustable,weights,strength,home-gym",2025-01-12T00:00:00Z
+P048,Yoga Mat Premium Non-Slip,Extra thick premium yoga mat with alignment lines and carrying strap,Sports,FlexFit,34.99,4.5,true,"yoga,mat,non-slip,thick,alignment",2025-02-25T00:00:00Z
+P049,Resistance Band Set,Professional resistance bands set with 5 levels door anchor and carrying bag,Sports,FlexFit,24.99,4.4,true,"resistance-bands,exercise,strength,portable,fitness",2025-03-14T00:00:00Z
+P050,Foam Roller Deep Tissue,High-density foam roller for muscle recovery and deep tissue massage,Sports,FlexFit,19.99,4.3,true,"foam-roller,massage,recovery,muscle,fitness",2025-04-08T00:00:00Z
+P051,Jump Rope Speed Cable,Adjustable speed cable jump rope with ball bearings and weighted handles,Sports,IronForce,14.99,4.2,true,"jump-rope,speed,cable,cardio,fitness",2025-05-18T00:00:00Z
+P052,Cycling Helmet Aerodynamic,Lightweight aerodynamic cycling helmet with MIPS protection and ventilation,Sports,TrailBlaze,79.99,4.6,true,"helmet,cycling,aerodynamic,mips,safety",2025-06-22T00:00:00Z
+P053,Pull Up Bar Doorway,Heavy-duty doorway pull-up bar with padded grips and multiple positions,Sports,IronForce,29.99,4.3,true,"pull-up,bar,doorway,strength,exercise",2025-07-05T00:00:00Z
+P054,Tennis Racket Professional,Professional graphite tennis racket with vibration dampening technology,Sports,ProCourt,149.99,4.5,true,"tennis,racket,graphite,professional,sport",2025-08-15T00:00:00Z
+P055,Ab Roller Wheel,Core strengthening ab roller wheel with knee pad and non-slip grip,Sports,IronForce,17.99,4.1,true,"ab-roller,core,exercise,strength,fitness",2025-09-02T00:00:00Z
+P056,Swimming Goggles Anti-Fog,Competition swimming goggles with anti-fog UV protection and adjustable strap,Sports,AquaPro,22.99,4.4,true,"goggles,swimming,anti-fog,uv,competition",2025-01-18T00:00:00Z
+P057,Kettlebell Cast Iron 35 lb,Solid cast iron kettlebell with powder coat finish and flat bottom,Sports,IronForce,44.99,4.7,true,"kettlebell,cast-iron,strength,weight,exercise",2025-02-20T00:00:00Z
+P058,Basketball Indoor Outdoor,Official size composite leather basketball for indoor and outdoor play,Sports,ProCourt,34.99,4.3,true,"basketball,composite,indoor,outdoor,sport",2025-03-30T00:00:00Z
+P059,Hiking Trekking Poles,Carbon fiber trekking poles with cork grips and quick-lock adjustment,Sports,TrailBlaze,59.99,4.5,true,"trekking,poles,carbon-fiber,hiking,cork",2025-04-25T00:00:00Z
+P060,Exercise Ball 65cm,Anti-burst exercise ball with hand pump for stability and core training,Sports,FlexFit,16.99,4.2,true,"exercise-ball,stability,core,fitness,anti-burst",2025-05-30T00:00:00Z
+P061,Boxing Gloves Training,Premium leather boxing gloves with wrist support and multi-layer foam,Sports,IronForce,39.99,4.4,true,"boxing,gloves,leather,training,combat",2025-06-12T00:00:00Z
+P062,Camping Tent 4 Person,Lightweight waterproof 4-person tent with easy setup and rain fly,Sports,TrailBlaze,129.99,4.5,true,"tent,camping,waterproof,lightweight,outdoor",2025-07-20T00:00:00Z
+P063,The Art of Programming,Comprehensive guide to algorithms and data structures for modern developers,Books,TechPress,44.99,4.8,true,"programming,algorithms,data-structures,coding,computer-science",2025-01-02T00:00:00Z
+P064,Machine Learning Fundamentals,Introduction to machine learning concepts with hands-on Python examples,Books,TechPress,39.99,4.6,true,"machine-learning,python,ai,data-science,tutorial",2025-02-15T00:00:00Z
+P065,Cooking with Spices,Explore world cuisines through the art of spice blending and flavor pairing,Books,CulinaryBooks,29.99,4.4,true,"cooking,spices,cuisine,recipes,food",2025-03-08T00:00:00Z
+P066,Digital Photography Masterclass,Complete guide to digital photography from basics to advanced techniques,Books,CreativePress,34.99,4.5,true,"photography,digital,camera,techniques,art",2025-04-20T00:00:00Z
+P067,Financial Freedom Blueprint,Practical guide to personal finance investing and building wealth,Books,WealthBooks,24.99,4.3,true,"finance,investing,wealth,personal-finance,money",2025-05-12T00:00:00Z
+P068,Cloud Architecture Patterns,Designing scalable and resilient cloud-native applications,Books,TechPress,49.99,4.7,true,"cloud,architecture,scalable,devops,aws",2025-06-08T00:00:00Z
+P069,Mindful Leadership,Transform your leadership style with mindfulness and emotional intelligence,Books,BusinessBooks,27.99,4.2,true,"leadership,mindfulness,business,management,emotional-intelligence",2025-07-22T00:00:00Z
+P070,Web Development with React,Build modern web applications with React hooks and Next.js framework,Books,TechPress,37.99,4.6,true,"react,web-development,nextjs,javascript,frontend",2025-08-05T00:00:00Z
+P071,Organic Gardening Guide,Complete guide to organic gardening composting and sustainable growing,Books,GreenBooks,22.99,4.4,true,"gardening,organic,sustainable,composting,plants",2025-09-15T00:00:00Z
+P072,History of Ancient Civilizations,Explore the rise and fall of ancient empires from Egypt to Rome,Books,HistoryPress,32.99,4.5,true,"history,ancient,civilizations,egypt,rome",2025-01-22T00:00:00Z
+P073,Data Engineering with Python,Building robust data pipelines and ETL workflows with Python,Books,TechPress,42.99,4.5,true,"data-engineering,python,etl,pipelines,big-data",2025-02-28T00:00:00Z
+P074,Creative Writing Workshop,Master the craft of storytelling with practical exercises and techniques,Books,CreativePress,19.99,4.3,true,"writing,creative,storytelling,workshop,fiction",2025-03-18T00:00:00Z
+P075,Vitamin C Brightening Serum,Concentrated vitamin C serum with hyaluronic acid for radiant skin,Beauty,GlowLab,28.99,4.6,true,"serum,vitamin-c,brightening,skincare,hyaluronic",2025-01-08T00:00:00Z
+P076,Natural Hair Repair Shampoo,Sulfate-free repair shampoo with argan oil and keratin for damaged hair,Beauty,PureHair,16.99,4.3,true,"shampoo,hair,repair,argan-oil,keratin",2025-02-12T00:00:00Z
+P077,Retinol Night Cream,Advanced retinol night cream with peptides for anti-aging and wrinkle reduction,Beauty,GlowLab,39.99,4.5,true,"retinol,night-cream,anti-aging,peptides,skincare",2025-03-22T00:00:00Z
+P078,SPF 50 Daily Moisturizer,Lightweight daily moisturizer with broad spectrum SPF 50 sun protection,Beauty,SunShield,24.99,4.4,true,"moisturizer,spf,sunscreen,daily,skincare",2025-04-10T00:00:00Z
+P079,Organic Lip Balm Set,Natural organic lip balm set with beeswax shea butter 4 flavors,Beauty,PureHair,12.99,4.2,true,"lip-balm,organic,beeswax,shea-butter,natural",2025-05-05T00:00:00Z
+P080,Charcoal Face Mask,Deep cleansing activated charcoal face mask for pore minimizing,Beauty,GlowLab,18.99,4.3,true,"face-mask,charcoal,cleansing,pore,skincare",2025-06-18T00:00:00Z
+P081,Hair Styling Clay Matte,Professional matte finish hair styling clay with strong hold,Beauty,PureHair,14.99,4.1,true,"hair,styling,clay,matte,grooming",2025-07-08T00:00:00Z
+P082,Rose Water Facial Toner,Organic rose water toner for hydrating and balancing skin pH,Beauty,GlowLab,15.99,4.4,true,"toner,rose-water,organic,hydrating,skincare",2025-08-25T00:00:00Z
+P083,Coconut Oil Body Butter,Rich coconut oil body butter with vitamin E for deep moisturizing,Beauty,PureHair,21.99,4.5,true,"body-butter,coconut,vitamin-e,moisturizing,skin",2025-09-12T00:00:00Z
+P084,Electric Toothbrush Sonic,Rechargeable sonic electric toothbrush with 5 modes and smart timer,Beauty,SmartLife,49.99,4.6,true,"toothbrush,electric,sonic,rechargeable,dental",2025-01-15T00:00:00Z
+P085,Tea Tree Acne Treatment,Concentrated tea tree oil acne spot treatment with salicylic acid,Beauty,GlowLab,13.99,4.2,true,"acne,tea-tree,treatment,salicylic-acid,skincare",2025-02-20T00:00:00Z
+P086,Nail Care Kit Professional,Complete professional nail care kit with manicure and pedicure tools,Beauty,PureHair,27.99,4.3,true,"nail-care,manicure,pedicure,tools,grooming",2025-03-28T00:00:00Z
+P087,Smart Watch Pro,Advanced smartwatch with ECG blood pressure and always-on AMOLED display,Electronics,FitGear,199.99,4.7,true,"smartwatch,ecg,blood-pressure,amoled,health",2025-04-02T00:00:00Z
+P088,Wireless Keyboard and Mouse Combo,Slim wireless keyboard and mouse combo with quiet keys and long battery life,Electronics,KeyMaster,44.99,4.3,true,"keyboard,mouse,wireless,combo,slim",2025-05-14T00:00:00Z
+P089,Fleece Zip-Up Hoodie,Soft fleece full zip hoodie with kangaroo pocket and ribbed cuffs,Clothing,UrbanWear,54.99,4.4,true,"hoodie,fleece,zip-up,casual,warm",2025-06-25T00:00:00Z
+P090,Professional Chef Knife 8 inch,German steel 8-inch chef knife with ergonomic handle and full tang,Home & Kitchen,ChefPro,59.99,4.8,true,"knife,chef,german-steel,kitchen,sharp",2025-07-30T00:00:00Z
+P091,Resistance Loop Bands Set,Fabric resistance loop bands set for glutes and legs 5 levels,Sports,FlexFit,18.99,4.3,true,"resistance,bands,loop,fabric,glutes",2025-08-10T00:00:00Z
+P092,Cybersecurity Essentials,Practical guide to cybersecurity threat detection and network defense,Books,TechPress,36.99,4.5,true,"cybersecurity,network,security,hacking,defense",2025-09-20T00:00:00Z
+P093,Hyaluronic Acid Serum,Pure hyaluronic acid serum for intense hydration and plumping effect,Beauty,GlowLab,22.99,4.6,true,"hyaluronic-acid,serum,hydration,plumping,skincare",2025-01-28T00:00:00Z
+P094,Portable SSD 1TB,Compact portable solid state drive with USB 3.2 and encryption,Electronics,TechConnect,89.99,4.5,true,"ssd,portable,storage,usb,encryption",2025-02-14T00:00:00Z
+P095,Wool Beanie Winter Hat,Chunky knit merino wool beanie with fleece lining for warmth,Clothing,NordicKnit,24.99,4.3,true,"beanie,wool,winter,knit,warm",2025-03-05T00:00:00Z
+P096,Immersion Blender Handheld,Powerful handheld immersion blender with variable speed and whisk attachment,Home & Kitchen,ChefPro,34.99,4.4,true,"blender,immersion,handheld,kitchen,variable-speed",2025-04-28T00:00:00Z
+P097,Climbing Chalk Bag,Drawstring climbing chalk bag with waist belt and zippered pocket,Sports,TrailBlaze,16.99,4.2,true,"climbing,chalk,bag,bouldering,outdoor",2025-05-10T00:00:00Z
+P098,Blockchain Development Guide,Learn blockchain development smart contracts and decentralized applications,Books,TechPress,41.99,4.4,true,"blockchain,smart-contracts,dapps,ethereum,web3",2025-06-15T00:00:00Z
+P099,Collagen Face Moisturizer,Marine collagen moisturizer with niacinamide for firmness and glow,Beauty,GlowLab,31.99,4.5,true,"collagen,moisturizer,niacinamide,firmness,skincare",2025-07-02T00:00:00Z
+P100,Noise Cancelling Travel Headphones,Foldable travel headphones with adaptive noise cancelling and quick charge,Electronics,SoundMax,149.99,4.6,true,"headphones,travel,noise-cancelling,foldable,portable",2025-08-18T00:00:00Z
