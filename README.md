@@ -1,4 +1,4 @@
-# Apache Solr E-Commerce Search Platform (Lab 13)
+# Apache Solr E-Commerce Search Platform
 
 A full-text product search engine powered by **Apache SolrCloud** with a **Next.js** web interface featuring faceted navigation, autocomplete suggestions, highlighting, sorting, and pagination.
 
